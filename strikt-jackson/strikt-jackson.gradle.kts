@@ -3,7 +3,6 @@ import java.net.URI
 
 plugins {
   kotlin("jvm")
-  id("published")
 }
 
 description = "Extensions for assertions and traversals on types Jackson's JsonNode and sub-types."

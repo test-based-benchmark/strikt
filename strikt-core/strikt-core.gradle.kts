@@ -1,6 +1,5 @@
 plugins {
   kotlin("jvm")
-  id("published")
 }
 
 description = "The core API for Strikt."

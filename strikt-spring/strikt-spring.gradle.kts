@@ -3,7 +3,6 @@ import java.net.URI
 
 plugins {
   kotlin("jvm")
-  id("published")
   id("org.jetbrains.kotlin.plugin.spring")
 }
 

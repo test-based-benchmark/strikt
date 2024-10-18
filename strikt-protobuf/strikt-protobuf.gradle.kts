@@ -5,7 +5,6 @@ import java.net.URI
 
 plugins {
   kotlin("jvm")
-  id("published")
   id("com.google.protobuf") version "0.9.4"
 }
 

@@ -1,6 +1,5 @@
 plugins {
   kotlin("jvm")
-  id("published")
 }
 
 description = "Extensions for assertions and traversals on types from the Java standard library."

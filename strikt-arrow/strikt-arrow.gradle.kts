@@ -4,7 +4,6 @@ import java.net.URL
 
 plugins {
   kotlin("jvm")
-  id("published")
 }
 
 description = "Extensions for assertions and traversals on types from the Arrow functional programming library."

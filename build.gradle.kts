@@ -40,6 +40,7 @@ allprojects {
 }
 
 subprojects {
+  apply(plugin = "org.jetbrains.kotlinx.kover")
   repositories {
     mavenCentral()
     // needed for dokka plugin, feels like this belongs in published.gradle.kts but it doesn't work there
